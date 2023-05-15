@@ -1,9 +1,19 @@
+
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="android" width="1080" height="250"  border-radius: 50% /> </a>
+
+
+
 <h1 align="center">Hi 👋, I'm Dishni Divya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishnidivya&label=Profile%20views&color=0e75b6&style=flat" alt="dishnidivya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishnidivya" alt="dishnidivya" /></a> </p>
+<hr></hr>
+
+<!-- Inner Gif -->
+<img align="right" alt="Coding"  width="400" height="270" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
